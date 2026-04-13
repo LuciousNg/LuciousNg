@@ -1,8 +1,21 @@
-# 👋 Hi, I'm Nguyen Phuc Binh (@LuciousNg)
+<div align="center">
 
-Welcome to my GitHub profile! 🎓 I am a first-year Information Technology student at the University of Engineering and Technology - Vietnam National University (UET - VNU).
+# 💫 Nguyen Phuc Binh (@LuciousNg)
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=57C1FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nguyen+Phuc+Binh;A+Passionate+IT+Student+at+UET;Building+AI+and+Web+Apps;Welcome+to+my+digital+world!" alt="Typing SVG" />
 
-I'm highly passionate about exploring and designing algorithms, building web and mobile applications, and conducting in-depth research on the practical applications of Artificial Intelligence in everyday life. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuciousNg&label=Profile%20Views&color=0078d7&style=flat-square&logo=github" alt="Visitor Count" />
+</p>
+
+</div>
+
+---
+
+### 📝 About Me
+
+🎓 **First-year IT Student** at the University of Engineering and Technology (UET - VNU).  
+✨ I focus on exploring algorithms, building applications, and researching AI impact.
 
 > 💡 **I love solving problems, working on collaborative projects, and continuously learning new technologies.**
 
@@ -10,7 +23,7 @@ I'm highly passionate about exploring and designing algorithms, building web and
 
 ### 🛠️ Tech Stack & Tools
 
-* **🐍 Languages:** Python (Advanced & Basic), Java (Currently Learning)
+* **🐍 Languages:** Python (Advanced & Basic), Java (Learning)
 * **⚙️ Tools:** Git & GitHub, VS Code, IntelliJ IDEA
 * **🎯 Interests:** Algorithm Design, Fullstack Development, AI/ML Applications
 
@@ -24,19 +37,18 @@ I'm highly passionate about exploring and designing algorithms, building web and
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuciousNg/LuciousNg/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LuciousNg&show_icons=true&theme=radical&hide_border=true" alt="LuciousNg's GitHub stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciousNg&theme=radical&hide_border=true" alt="LuciousNg's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuciousNg&show_icons=true&theme=radical&hide_border=true" alt="LuciousNg's GitHub stats" />
 </div>
 
 ---
@@ -57,4 +69,5 @@ I'm highly passionate about exploring and designing algorithms, building web and
 
 <div align="center">
   <p><i>"The journey of a thousand miles begins with a single step." - Lao Tzu</i></p>
+  <img src="https://raw.githubusercontent.com/LuciousNg/LuciousNg/main/footer.svg" width="100%" />
 </div>
