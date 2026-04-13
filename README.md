@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-  <p><i>"The journey of a thousand miles begins with a single step." - Lao Tzu</i></p>
+  <p><i>"There is no substitute for hard work." - Thomas Edison</i></p>
 </div>
