@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Phuc Binh (@LuciousNg)
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 I am a first-year Information Technology student at the University of Engineering and Technology - Vietnam National University (UET - VNU).
 
 I'm highly passionate about exploring and designing algorithms, building web and mobile applications, and conducting in-depth research on the practical applications of Artificial Intelligence in everyday life. I love solving problems, working on collaborative projects, and continuously learning new technologies.
@@ -24,17 +24,30 @@ I'm highly passionate about exploring and designing algorithms, building web and
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciousNg&show_icons=true&theme=radical&hide_border=true" alt="LuciousNg's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciousNg&theme=radical&hide_border=true" alt="LuciousNg's GitHub Streak" width="48%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=LuciousNg&show_icons=true&theme=radical&hide_border=true" alt="LuciousNg's GitHub stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciousNg&theme=radical&hide_border=true" alt="LuciousNg's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 📫 Let's Connect!
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Link to your LinkedIn Profile]
-- **Facebook:** [Link to your Facebook Profile]
+<div align="center">
+  <a href="URL_LINKEDIN_CỦA_BINH">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="URL_FACEBOOK_CỦA_BINH">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Button" />
+  </a>
+</div>
 
 <br>
 
