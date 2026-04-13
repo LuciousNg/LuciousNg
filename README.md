@@ -2,7 +2,7 @@
 
 # 💫 Nguyen Phuc Binh (@LuciousNg)
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=57C1FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nguyen+Phuc+Binh;Information+Technology+Student;Major+Code%3A+CN1;Welcome+to+my+digital+world!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=57C1FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nguyen+Phuc+Binh;Information+Technology+Student;An+AI+enthusiast;Welcome+to+my+digital+world!" alt="Typing SVG" />
 
 </div>
 
