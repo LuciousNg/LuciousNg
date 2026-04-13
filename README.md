@@ -21,23 +21,6 @@ I'm highly passionate about exploring and designing algorithms, building web and
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=LuciousNg&show_icons=true&theme=radical&hide_border=true" alt="LuciousNg's GitHub stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciousNg&theme=radical&hide_border=true" alt="LuciousNg's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
