@@ -2,7 +2,7 @@
 
 # Nguyen Phuc Binh
 
-### CN1 Student @ VNU-UET · AI / Deep Learning / LLM Enthusiast
+### CN1 Student @ VNU - University of Engineering and Technology
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Nguyen+Phuc+Binh;Information+Technology+Student;Building+software+with+curiosity%2C+clarity%2C+and+purpose" alt="Typing SVG" />
 
