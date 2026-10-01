@@ -1,13 +1,9 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:E94560&height=220&section=header&text=Binh+Nguyen+Phuc&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFF0F5">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E1,100:E94560&height=220&section=header&text=A%20n%20n%20g&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=2D1B2E">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:E94560&height=220&section=header&text=A%20n%20n%20g&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFF0F5" width="100%"/>
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A1A1A2E%2C100%3AE94560&height=220&section=header&text=Binh%20Nguyen%20Phuc&fontSize=60&fontColor=FFF0F5" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=24&duration=3500&pause=1000&color=E94560&center=true&vCenter=true&width=580&lines=;Information+Technology+(CN1)+@UET-VNU;Turning+data+into+decisions;Debugging+code+by+day,+models+by+night" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=24&duration=3500&pause=1000&color=E94560&center=true&vCenter=true&width=580&lines=Information+Technology+(CN1)+@UET-VNU;Turning+data+into+decisions;Debugging+code+by+day,+models+by+night" alt="Typing SVG"/>
 </p>
 
 <p align="center">
