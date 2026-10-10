@@ -41,7 +41,7 @@ class AI研究者:
         self.name = "Nguyen Phuc Binh"           # ビン・グエンン
         self.role = "AI Student & Researcher(Perhaps:>)"
         self.school = "UET - Vietnam National University"
-        self.lab = "#"
+        self.lab = "Data Science and Knowledge Technology Laboratory"
         self.interests = [
             "👁️ Computer Vision",
             "⚡ Model Optimization",
